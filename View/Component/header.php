@@ -7,6 +7,6 @@
         <link rel="stylesheet" href="./Ressources/style.css">
         <title>Document</title>
         <script src="./js/handleSubmit.js" defer></script>
-        <script src="./js/getNewMessages.js" defer></script>
+        <script src="./js/getNewMessages.js"></script>
     </head>
     <body>
